@@ -1,0 +1,13 @@
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\bin\Debug\PracticaDataset.exe.config
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\bin\Debug\PracticaDataset.exe
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\bin\Debug\PracticaDataset.pdb
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\bin\Debug\PracticaDs.dll
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\bin\Debug\PracticaDs.pdb
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.csprojAssemblyReference.cache
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.ABC.resources
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.Properties.Resources.resources
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.csproj.GenerateResource.cache
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.csproj.CoreCompileInputs.cache
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.csproj.CopyComplete
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.exe
+C:\Users\luisp\source\repos\PracticaDataset\PracticaDataset\obj\Debug\PracticaDataset.pdb
